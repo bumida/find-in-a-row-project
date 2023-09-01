@@ -3,7 +3,7 @@
 
 int main(void) {
 	int a;
-	int b;
+	int bumida;
 	scanf("%d", &a);
 	print("�Է��� ���ڴ� %d�Դϴ�.\n", a);
 	system("pause");
