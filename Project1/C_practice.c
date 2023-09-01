@@ -3,8 +3,9 @@
 
 int main(void) {
 	int a;
+	int b;
 	scanf("%d", &a);
-	print("ÀÔ·ÂÇÑ ¼ıÀÚ´Â %dÀÔ´Ï´Ù.\n", a);
+	print("ï¿½Ô·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ú´ï¿½ %dï¿½Ô´Ï´ï¿½.\n", a);
 	system("pause");
 	return 0;
 }
